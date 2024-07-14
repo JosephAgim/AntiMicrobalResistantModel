@@ -28,16 +28,16 @@ To install the required packages, you can use the provided bash script.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd 
+   git clone https://github.com/JosephAgim/AntiMicrobalResistantModel
+   cd AntiMicrobalResistantModel
    bash install_dependencies.sh
-
-```
+   ```
 # Usage
 To run the model on your own PDB files you can  use the code below after you change the scripts directory for your own directory containing your files 
-```bash
-python ModelPlay.py
-```
+
+   ```bash
+   python ModelPlay.py
+   ```
 # Contributing
 Contributions to this project are welcome. If you would like to contribute, please follow these guidelines:
 
