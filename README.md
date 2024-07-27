@@ -20,7 +20,7 @@ Install Visual Studio Code
 Install the required Python packages packages by running the following command in the terminal console:
 
 ## Requirements
-
+Download the traning library and the model through this link from my google drive https://drive.google.com/drive/folders/1hBu-3AaGMWoH4AqA-biEuj9WN1h6CTtX?usp=sharing
 To install the required packages, you can use the provided bash script.
 
 ## Installation
