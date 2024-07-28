@@ -1,7 +1,5 @@
 
 ### install_dependencies.sh
-
-```bash
 #!/bin/bash
 
 # Update package list and install Python3 and pip if not already installed
