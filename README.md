@@ -1,18 +1,22 @@
-# Antimicrobal resistant recognition using RandomForestClassifier
-Antibiotic resistant protein structure recognition vs non-Antibiotic resistant protein structures from the prokaryotic  PDB database 
+# Project Title
+
+Final project for the Building AI course
+
+RandomForestClassifier Ability & Limitation Profiling Antibiotic Resistant Protein Structure of Prokaryotes Through Protein Structure Recognition: Antibiotic vs non-Antibiotic Resistant Protein Structures From The Prokaryotic PDB database, A Superviced Machine Learning Approach.
 
 ## Summary
-Antibiotic resistant structural characteristics is believed to have a different atributes than the other proteins existing in the prokaryotic cell line. I tested this theory by building a model that overfitted for the antibbiotic resistant protein while being biased for the non-antibiotic resistant proteins(proteins that are not antibiotic resistant).
+Antibiotic resistant structural characteristics is believed to have a different atributes than the other proteins existing in the prokaryotic cell line. I tested this theory by building a model that overfitted for the antibiotic resistant protein while being biased for the non-antibiotic resistant proteins(proteins that are not antibiotic resistant).
 The code was built through a guide viable at https://biopython.org/. The traning library was downloaded from the https://www.rcsb.org/. Approximatley 80000 PDB files where downloaded in total 70000 was normal proteins in the procaryotic region the other 10000 was antibiotic resistant proteins,  after cleaning by removing the corrupt and duplicate files from the both library there was 8000 PDB files of antibiotic resistant protein structures while having 59000 PDBfies the normal protein structures. Nomalization was used to  by looping the traning of the smaller library 7 times to fit the volume of 59000 since 8000 * 7 = 56000.
 The model is overfittet to the traning data. The overall accuracy is 4.53% for protein structures not trained on. Thus the models bias is still towards the normal proteins and not the antibiotic resistant protein structure since the false positives of the normal proteins was 3.40%   
 
-# Table of Contents
+# Contents
 Installation
 Usage
 Data
 Contributing
 License
 Installation
+
 To run the code in this project, follow these steps:
 
 Install python programming language (version 3.14.1) from the python.org website.
@@ -56,4 +60,4 @@ For any inquiries or feedback, please contact JosephAgim at Josag897@student.liu
 
 # Acknowledgements
 I would like to acknowledge the invaluable assistance of Uppsala University for providing the computational power through a cluster called uppmax. 
-I are grateful for the assistance and support provided by ChatGPT 4.0 in enhancing the quality and efficiency of this project by  providing solution when the guide became insufficient.
+
