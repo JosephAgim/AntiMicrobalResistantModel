@@ -1,8 +1,8 @@
 # Project Title
 
-Final project for the Building AI course
-
 RandomForestClassifier Ability & Limitation Profiling Antibiotic Resistant Protein Structure of Prokaryotes Through Protein Structure Recognition: Antibiotic vs non-Antibiotic Resistant Protein Structures From The Prokaryotic PDB database, A Superviced Machine Learning Approach.
+
+Final project for the Building AI course
 
 ## Summary
 Antibiotic resistant structural characteristics is believed to have a different atributes than the other proteins existing in the prokaryotic cell line. I tested this theory by building a model that overfitted for the antibiotic resistant protein while being biased for the non-antibiotic resistant proteins(proteins that are not antibiotic resistant).
