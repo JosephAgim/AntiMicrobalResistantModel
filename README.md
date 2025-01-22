@@ -1,6 +1,4 @@
-# Project Title
-
-RandomForestClassifier Ability & Limitation Profiling Antibiotic Resistant Protein Structure of Prokaryotes Through Protein Structure Recognition: Antibiotic vs non-Antibiotic Resistant Protein Structures From The Prokaryotic PDB database, A Superviced Machine Learning Approach.
+# RandomForestClassifier Ability & Limitation Profiling Antibiotic Resistant Protein Structure of Prokaryotes Through Protein Structure Recognition: Antibiotic vs non-Antibiotic Resistant Protein Structures From The Prokaryotic PDB database, A Superviced Machine Learning Approach.
 
 Final project for the Building AI course
 
